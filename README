@@ -1,0 +1,14 @@
+RGA Tools is a set of function for reading RGA files export from Stanford Research Systems RGA softward.
+
+installation:
+
+git clone https://github.com/boatmorrow/rga_tools
+
+Make sure rga_tools directory in your PATH and PYTHONPATH variables.
+
+
+Written by:
+
+W. Payton Gardner 
+Dept. of Geoscience
+University of Montana
